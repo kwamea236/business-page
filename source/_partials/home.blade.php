@@ -1,5 +1,7 @@
 <div class="p-5 bg-dark" style="">
-    <div class="container text-white mt-5">
+    <div class="container text-white mt-2">
+      
+
       <h1 class="mx-auto my-5 fs-1 fw-bold">
         <a href="/" class="text-white text-decoration-none">duplexData.dev</a>
       </h1>
@@ -29,6 +31,6 @@
     </div>
   
     <div class="text-white text-center fs-1 mt-5">
-      <i class="bi bi-arrow-down"></i>
+      <a href="/about" class="text-decoration-none text-white"><i class="bi bi-arrow-down"></i></a>
     </div>
 </div>

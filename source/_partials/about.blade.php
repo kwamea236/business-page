@@ -1,10 +1,10 @@
-<div class="p-5">
+<div class="p-5 bg-inf">
     <div class="text-center">
       <h1>What to know about us</h1>
     </div>
   
     <div class="mb-4 px-5 text-center">
-      <p>
+      <p class="lead small">
         DuplexData is a team of software developers in Ghana focused on the
         laravel ecosystem. We work with start ups and small businesses. we're
         passionate about developing scalable solutions that deliver high quality
